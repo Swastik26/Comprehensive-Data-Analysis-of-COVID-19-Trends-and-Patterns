@@ -108,7 +108,7 @@ This COVID-19 dataset analysis offers valuable insights into the pandemic's prog
 
 ## Check it out on Google Colab 📍
 
-For more detailed analysis and interactive exploration, feel free to check out the project on my [Swastik-2004-Colab](https://colab.research.google.com/drive/18m9EHJu7xJWaVa5mgnpP3NQDJ9w1kuyw) 🖥️.
+For more detailed analysis and interactive exploration, feel free to check out the project on my [Swastik-2004-Colab](https://colab.research.google.com/drive/18m9EHJu7xJWaVa5mgnpP3NQDJ9w1kuyw) 🖥️.For better access You Can reach me out on [Swastik-Gmail](swastikchattopadhyay.2024@gmail.com)
 
 Explore the dataset, run code snippets, and visualize the results directly in the notebook! 🚀
 
