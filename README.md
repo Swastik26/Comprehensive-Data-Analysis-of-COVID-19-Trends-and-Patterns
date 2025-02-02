@@ -1,0 +1,2 @@
+# Comprehensive-Data-Analysis-of-COVID-19-Trends-and-Patterns
+This COVID-19 dataset analysis tracks over 200 countries, detailing daily infection rates, mortality rates, recovery rates, and vaccination coverage. It includes metrics like total cases, deaths, and active cases, along with trends in hospitalizations, testing, and regional disparities, offering a comprehensive view of the pandemic's impact.
