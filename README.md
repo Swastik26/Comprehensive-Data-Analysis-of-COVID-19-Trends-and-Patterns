@@ -106,6 +106,12 @@ Through advanced statistical models such as ARIMA and exponential smoothing, for
 
 This COVID-19 dataset analysis offers valuable insights into the pandemic's progression, its impact on global health, and the effectiveness of interventions such as testing and vaccination. By examining key metrics like infection rates, testing coverage, recovery rates, and mortality rates, we gain a comprehensive understanding of the pandemic’s dynamics, which can help guide future public health responses 🏥.
 
+## Check it out on Google Colab 📍
+
+For more detailed analysis and interactive exploration, feel free to check out the project on my [Swastik-2004-Colab](https://colab.research.google.com/drive/18m9EHJu7xJWaVa5mgnpP3NQDJ9w1kuyw) 🖥️.
+
+Explore the dataset, run code snippets, and visualize the results directly in the notebook! 🚀
+
 This project serves as an invaluable resource for researchers, policymakers, and health professionals working to mitigate the ongoing effects of the pandemic and prepare for future global health challenges 🌍. The insights drawn from this data provide a clearer picture of the long-term effects of COVID-19, helping to shape global strategies moving forward 🚀.
 
 
